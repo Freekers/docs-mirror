@@ -5,7 +5,7 @@
   <parent>
     <groupId>com.sismics.docs</groupId>
     <artifactId>docs-parent</artifactId>
-    <version>1.9-SNAPSHOT</version>
+    <version>1.10-SNAPSHOT</version>
     <relativePath>..</relativePath>
   </parent>
   
@@ -95,7 +95,6 @@
     <dependency>
       <groupId>at.favre.lib</groupId>
       <artifactId>bcrypt</artifactId>
-      <version>0.9.0</version>
     </dependency>
     
     <dependency>
